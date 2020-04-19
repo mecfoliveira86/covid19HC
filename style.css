@@ -122,3 +122,12 @@ a{
     align-self: center;
     right: 40%;
 }
+
+#atendimento table{
+    width: 90%;
+    left: 20%;
+}
+
+#atendimento table tr td h3{
+    text-align: center;
+}
