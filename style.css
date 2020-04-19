@@ -99,9 +99,26 @@ a{
     text-align: center;
 }
 
-.icon{
-    width: 100%;
+#tabelacontato{
+    width:100%
 }
-.icon i{
-    font-size: 40px;
+
+#tabelacontato table{
+    width:100%;
+}
+
+#tabelacontato table a i{
+    font-size: 80px;
+    text-align: center;
+}
+
+#tabelacontato table a p{
+    font-size: 12px;
+    text-align: center;
+}
+
+#atendimento{
+    padding:1%;
+    align-self: center;
+    right: 40%;
 }
