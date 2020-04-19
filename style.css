@@ -68,5 +68,23 @@ a{
 }
 
 #lavar h3{
+    position: absolute;
     text-align: center;
+}
+
+#formacaoacademica{
+    position: absolute;
+    width: 30%;
+}
+
+#profissao{
+    position: absolute;
+    right:33%;
+    width: 30%;
+}
+
+#marcialidade{
+    position: absolute;
+    right:0%;
+    width: 30%;
 }
