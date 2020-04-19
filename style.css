@@ -88,3 +88,12 @@ a{
     right:0%;
     width: 30%;
 }
+
+#fotofelipe{
+    align-self: center;
+    width: 33%;
+}
+
+#titulo{
+    text-align: center;
+}
