@@ -92,8 +92,16 @@ a{
 #fotofelipe{
     align-self: center;
     width: 33%;
+    padding-bottom: 50px;
 }
 
 #titulo{
     text-align: center;
+}
+
+.icon{
+    width: 100%;
+}
+.icon i{
+    font-size: 40px;
 }
